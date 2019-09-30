@@ -1,0 +1,75 @@
+2016-08-24 01:02:15 INFO  SystemLogger:40 - User: asmith1 successfully logged in
+2016-08-24 01:23:57 INFO  SystemLogger:145 - User: asmithSupplied non-existing username
+2016-08-24 01:23:57 INFO  SystemLogger:44 - User: asmith tried logging in but was unsuccessful
+2016-08-24 01:27:18 INFO  SystemLogger:141 - User: asmith1 Supplied invalid password
+2016-08-24 01:27:18 INFO  SystemLogger:145 - User: asmith1 Supplied non-existing username
+2016-08-24 01:27:18 INFO  SystemLogger:44 - User: asmith1 tried logging in but was unsuccessful
+2016-08-24 01:29:58 INFO  SystemLogger:148 - User: Asmith Supplied non-existing username
+2016-08-24 01:29:58 INFO  SystemLogger:44 - User: Asmith tried logging in but was unsuccessful
+2016-08-24 01:31:03 INFO  SystemLogger:142 - User: Asmith1 Supplied invalid password
+2016-08-24 01:31:03 INFO  SystemLogger:44 - User: Asmith1 tried logging in but was unsuccessful
+2016-08-24 01:31:57 INFO  SystemLogger:148 - User: sidn Supplied non-existing username
+2016-08-24 01:31:57 INFO  SystemLogger:44 - User: sidn tried logging in but was unsuccessful
+2016-08-24 01:44:10 INFO  SystemLogger:41 - User: asmith4 successfully logged in
+2016-08-24 01:47:34 INFO  SystemLogger:99 - Person with username calvanize was created and inserted
+2016-08-24 02:02:09 INFO  SystemLogger:99 - Person with username calvanize was created and inserted
+2016-08-24 02:02:29 INFO  SystemLogger:123 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 02:11:36 INFO  SystemLogger:75 - User decided to cancel login
+2016-08-24 02:11:48 INFO  SystemLogger:169 - User decided to cancel Registration
+2016-08-24 02:12:06 INFO  SystemLogger:148 - User: calvanize Supplied non-existing username
+2016-08-24 02:12:06 INFO  SystemLogger:44 - User: calvanize tried logging in but was unsuccessful
+2016-08-24 02:12:56 INFO  SystemLogger:142 - User: aSMIth5 Supplied invalid password
+2016-08-24 02:12:56 INFO  SystemLogger:44 - User: aSMIth5 tried logging in but was unsuccessful
+2016-08-24 02:13:28 INFO  SystemLogger:41 - User: asmith6 successfully logged in
+2016-08-24 02:17:57 INFO  SystemLogger:94 - Error: Username, asmith1 already exist in the system
+2016-08-24 02:17:57 INFO  SystemLogger:99 - Person with username asmith1 was created and inserted
+2016-08-24 02:17:57 INFO  SystemLogger:123 - User asmith1 has been assigned BROKER role
+2016-08-24 02:19:32 INFO  SystemLogger:94 - Error: Username, ASMITH1 already exist in the system
+2016-08-24 02:21:38 INFO  SystemLogger:94 - Error: Username, ASmith3 already exist in the system
+2016-08-24 02:21:38 ERROR SystemLogger:104 - Person with username ASmith3 cannot be inserted
+2016-08-24 02:22:26 INFO  SystemLogger:94 - Error: Username, ASmith5 already exist in the system
+2016-08-24 02:22:26 ERROR SystemLogger:104 - Person with username ASmith5 cannot be inserted
+2016-08-24 02:22:26 INFO  SystemLogger:112 - Role HYBRID was created and inserted
+2016-08-24 02:22:26 INFO  SystemLogger:140 - User ASmith5 has been assigned  a SHAREHOLDER role
+2016-08-24 02:35:41 INFO  SystemLogger:94 - Error: Username, ASmith5 already exist in the system
+2016-08-24 02:35:41 ERROR SystemLogger:104 - Person cannot be inserted into database
+2016-08-24 02:37:53 INFO  SystemLogger:94 - Error: Username, Asmith4 already exist in the system
+2016-08-24 02:37:53 ERROR SystemLogger:105 - Person cannot be inserted into database
+2016-08-24 02:38:10 INFO  SystemLogger:94 - Error: Username, ASmith3 already exist in the system
+2016-08-24 02:38:10 ERROR SystemLogger:105 - Person cannot be inserted into database
+2016-08-24 02:39:59 INFO  SystemLogger:41 - User: asmith4 successfully logged in
+2016-08-24 02:40:30 INFO  SystemLogger:148 - User: Asmith5 Supplied invalid password
+2016-08-24 02:40:30 INFO  SystemLogger:44 - User: Asmith5 tried logging in but was unsuccessful
+2016-08-24 02:41:23 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 02:41:23 INFO  SystemLogger:123 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 02:41:37 INFO  SystemLogger:169 - User decided to cancel Registration
+2016-08-24 02:43:08 INFO  SystemLogger:94 - Error: Username, Asmith5 already exist in the system
+2016-08-24 02:43:08 ERROR SystemLogger:105 - Person cannot be inserted into database
+2016-08-24 02:43:29 INFO  SystemLogger:169 - User decided to cancel Registration
+2016-08-24 03:25:29 INFO  SystemLogger:41 - User: asmith2 successfully logged in
+2016-08-24 03:31:55 INFO  SystemLogger:41 - User: asmith2 successfully logged in
+2016-08-24 03:33:49 INFO  SystemLogger:41 - User: asmith6 successfully logged in
+2016-08-24 03:36:13 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 03:36:13 INFO  SystemLogger:123 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 03:38:29 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 03:38:29 INFO  SystemLogger:123 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 03:39:44 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 03:39:58 INFO  SystemLogger:123 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 03:42:42 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 03:42:42 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 05:38:17 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 05:38:17 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 05:41:11 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 05:41:11 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 05:44:19 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 05:44:30 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 05:50:13 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 05:50:13 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 05:53:33 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 05:53:33 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 06:11:29 INFO  SystemLogger:100 - Person with username calvanize was created and inserted
+2016-08-24 06:11:29 INFO  SystemLogger:125 - User calvanize has been assigned SHAREHOLDER role
+2016-08-24 06:14:08 INFO  SystemLogger:41 - User: asmith2 successfully logged in
+2016-08-24 06:17:40 INFO  SystemLogger:41 - User: asmith6 successfully logged in
+2016-08-24 06:20:23 INFO  SystemLogger:41 - User: asmith2 successfully logged in
+2016-08-24 06:21:57 INFO  SystemLogger:41 - User: asmith2 successfully logged in
